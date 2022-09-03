@@ -35,6 +35,12 @@ export const GlobalStyles = () => {
           padding: 0;
           list-style: none;
         }
+
+        img {
+          display: block;
+          max-width: 100%;
+          height: auto;
+        }
       `}
     />
   );
